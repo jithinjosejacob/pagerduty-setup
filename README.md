@@ -14,7 +14,7 @@ You can install mobile app as well
 
 ** Setting up a service***
 
-[Create Service ](./wiki/IMG_2924.jpg)
+![Create Service](./wiki/IMG_2924.jpg)
 
 [Description ](./wiki/IMG_2925.jpg)
 
