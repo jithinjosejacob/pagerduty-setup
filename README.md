@@ -14,12 +14,12 @@ You can install mobile app as well
 
 ** Setting up a service***
 
-[Create Service ](wiki/IMG_2924.jpg)
+[Create Service ](./wiki/IMG_2924.jpg)
 
-[Description ](wiki/IMG_2925.jpg)
+[Description ](./wiki/IMG_2925.jpg)
 
-[Escalation Policy ](wiki/IMG_2926.jpg)
+[Escalation Policy ](./wiki/IMG_2926.jpg)
 
-[Existing Policy ](wiki/IMG_2927.jpg)
+[Existing Policy ](./wiki/IMG_2927.jpg)
 
-[Events ](wiki/IMG_2928.jpg)
+[Events ](./wiki/IMG_2928.jpg)
